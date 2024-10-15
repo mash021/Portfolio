@@ -229,7 +229,7 @@ h2{
     .matn2{
         position: relative;
         left: 3%;
-        top: 400px;
+        top: 410px;
         width: 90%; /* افزایش عرض برای پر کردن صفحه */
         text-align: center;
         font-size: 1rem;
@@ -238,6 +238,6 @@ h2{
     .gg {
         height: 150px; /* کوچک‌تر کردن اندازه گیف */
         top: 1150px;
-        left: 90px;
+        left: 80px;
     }
 }
